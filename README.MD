@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mzdluo123&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 </a>
 
-* 只会搭火柴盒的Minecraft玩家<img src="https://raw.githubusercontent.com/mzdluo123/blog_imgs/master/img/mc.ico" height="20" width="20"/> 
+* 只会搭火柴盒的Minecraft玩家 <img src="https://raw.githubusercontent.com/mzdluo123/blog_imgs/master/img/mc.ico" height="20" width="20"/> 
 * 初级动漫爱好者
 * 干啥啥不行，摸鱼第一名🐟
 
