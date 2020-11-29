@@ -24,4 +24,4 @@
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
 
-![visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=mzdluo123.mzdluo123.readme)
+![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=mzdluo123.mzdluo123.readme)
