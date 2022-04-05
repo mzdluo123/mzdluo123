@@ -4,7 +4,7 @@
 
 你好！(。・∀・)ノ这里是我的GitHub个人主页。
 
-欢迎访问我的[博客](https://mzdluo123.github.io/) 欢迎来我的[群](https://mirai.mamoe.net/topic/950/)一起聊天
+欢迎访问我的[博客](https://mzdluo123.github.io/) 
 
 * 一只某高校在读大学生
 * 只会搭火柴盒的Minecraft玩家 <img src="https://raw.githubusercontent.com/mzdluo123/blog_imgs/master/img/mc.ico" height="20" width="20"/> 
