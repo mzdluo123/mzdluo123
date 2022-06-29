@@ -9,10 +9,7 @@
 * 一只某高校在读大学生
 * 只会搭火柴盒的Minecraft玩家 <img src="https://raw.githubusercontent.com/mzdluo123/blog_imgs/master/img/mc.ico" height="20" width="20"/> 
 * 初级动漫爱好者
-* 干啥啥不行，摸鱼第一名🐟
 
-
-只会写简单的代码和一些好玩的小东西😂
 
 经常整的活
 
