@@ -6,10 +6,9 @@
 
 欢迎访问我的[博客](https://mzdluo123.github.io/) 
 
-* 一只某高校在读大学生
 * 只会搭火柴盒的Minecraft玩家 <img src="https://raw.githubusercontent.com/mzdluo123/blog_imgs/master/img/mc.ico" height="20" width="20"/> 
 * 初级动漫爱好者
-
+* 等待考研开奖中....
 
 经常整的活
 
