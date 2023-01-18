@@ -1,8 +1,5 @@
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mzdluo123&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-</a>
 
-你好！(。・∀・)ノ这里是我的GitHub个人主页。
+你好！(。・∀・)ノ这里是我的GitHub个人主页，很高兴认识你~~~
 
 欢迎访问我的[博客](https://mzdluo123.github.io/) 
 
